@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd",
+    "moduleResolution": "classic",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "downlevelIteration": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "pretty": true,
+    "outFile": "./bin/main.js",
+    "allowJs": true
+  },
+  "include": ["src/**/*.ts"]
+}
